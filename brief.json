@@ -1,6 +1,7 @@
 {
   "name": "mustache",
-  "path": "mustache.js",
+  "path": "dist",
   "description": "Bitcode para disponibilização do Mustache no Thrustjs",
-  "author": "Leonardo Delfino"
+  "author": "Leonardo Delfino",
+  "version": "1.0.0"
 }
