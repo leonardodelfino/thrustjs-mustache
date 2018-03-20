@@ -1,0 +1,6 @@
+{
+  "name": "mustache",
+  "path": "mustache.js",
+  "description": "Bitcode para disponibilização do Mustache no Thrustjs",
+  "author": "Leonardo Delfino"
+}
